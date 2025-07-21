@@ -1,0 +1,6 @@
+ffmpeg-python
+openai-whisper
+google-generativeai
+tqdm
+yt-dlp
+googletrans==4.0.0-rc1
